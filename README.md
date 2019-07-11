@@ -3,7 +3,6 @@ shell configuration files
 
 instalacja:
 
-`
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/mielnicz/zsh-confg/zsh-install.sh)"
-
-`
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/mielnicz/zsh-confg/master/zsh-install.sh)"
+```
