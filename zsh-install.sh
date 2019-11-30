@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-sudo apt install zsh git curl vim
+sudo apt install zsh git curl vim fonts-powerline
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
